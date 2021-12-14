@@ -1,5 +1,5 @@
 import React from "react";
-import Setup from "./tutorial/2-useEffect/setup/3-useEffect-fetch-data.js";
+import Setup from "./tutorial/3-conditional-rendering/setup/2-short-circuit.js";
 import Final from "./tutorial/1-useState/final/2-useState-basics.js";
 
 function App() {
