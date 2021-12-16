@@ -1,6 +1,6 @@
 import React from "react";
-import Setup from "./tutorial/4-forms/setup/1-controlled-inputs.js";
-import Final from "./tutorial/1-useState/final/2-useState-basics.js";
+import Setup from "./tutorial/6-useReducer/setup";
+// import Final from "./tutorial/6-useReducer/final";
 
 function App() {
   return (
